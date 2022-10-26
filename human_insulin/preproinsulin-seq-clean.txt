@@ -1,0 +1,6 @@
+malwmrllpllallalwgpdpaaafvnqhlcgshlvealylvcgergffytpktrreaedlqvgqvelgggpgagslqplalegslqkrgiveqcctsicslyqlenycn
+
+1-24 malwmrllpllallalwgpdpaaa
+25 -54 fvnqhlcgshlvealylvcgergffytpkt
+55 - 89 rreaedlqvgqvelgggpgagslqplalegslqkr
+90 - 110 giveqcctsicslyqlenycn
